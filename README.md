@@ -12,4 +12,5 @@ This is a simple project developed in JavaScript that allows adding and removing
 - JavaScript
 - HTML
 - CSS 
-![(https://github.com/kaarencristina/RefundProject/blob/main/screen.png?raw=true)
+![Project](https://github.com/kaarencristina/RefundProject/blob/main/screen.png?raw=true)
+)
